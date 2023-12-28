@@ -9,7 +9,7 @@
         <property key="maven.central.javafx" value="${maven.central}/org/openjfx/"/>
     </properties>
     <files>
-        <file uri="http://docs.update4j.org/demo/business/config.xml" path="../business/config.xml" size="684" checksum="6f207b96"/>
+        <file uri="http://docs.update4j.org/demo/business/config.xml" path="../business/config.xml" size="396" checksum="6f207b96"/>
         <file uri="http://docs.update4j.org/demo/bootstrap/bootstrap-1.0.0.jar" size="6030" checksum="691bcd9" classpath="true"/>
     </files>
 </configuration>
